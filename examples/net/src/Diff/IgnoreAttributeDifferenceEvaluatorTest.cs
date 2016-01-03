@@ -18,6 +18,7 @@ using Org.XmlUnit.Builder;
 
 namespace Org.XmlUnit.UserguideExamples {
 
+    [TestFixture]
     public class IgnoreAttributeDifferenceEvaluatorTest {
 
         [Test]
