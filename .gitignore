@@ -5,3 +5,11 @@ target
 .project
 packages
 obj
+
+# MacOS files
+.DS_Store
+
+# JetBrains tools
+.idea/
+*.iml
+
